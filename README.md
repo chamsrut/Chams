@@ -1,9 +1,11 @@
-# Hackathon-ETH-Zurich-Russian-Quantum-Center-2019
-This repository contains two projects developed by Chams Rutkowski, David Castells Graells and Eleftherios Tselentis during a hackathon at ETH Zurich in 2019. Pigeonhole_readme.pdf and Quantum_Transversal.pdf contain a detailed description of the projects. The documentation about the code of the respective projects can be found in the appendices.
+# Project Description
+This repository contains two projects developed by myself, David Castells Graells and Eleftherios Tselentis during a hackathon on quantum computing at ETH Zurich in 2019. We won the competition and provided the solutions to the following problems: 
 
 [link to the challange](http://squids.ch/2018/12/no-1-in-c-not-major/)
 
-#### 2. Quantum transversals
+<br/>
+
+### 2. Quantum transversals
 We start with the set G of all N-bit strings, for example for N=3,
 G={000,001,010,100,011,101,110,111}.
 Now we consider a symmetry group acting on N elements; for example the fully symmetric group
