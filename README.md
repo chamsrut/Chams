@@ -26,14 +26,13 @@ Resources
 [1] Nicolas Borie: “Generating tuples of integers modulo the action of a permutation group and applications”, 2012; arXiv:1211.6261.
 
  
+**Mandatory**
 
-Subtasks
-Mandatory
+- Output the final state (a uniform superposition of a transversal) for the fully symmetric group SN.
+- The program should also output the circuit that generates the quantum transversal.
+- Allow for an extra input π∈S, which is a permutation in the symmetry group, and output the effect of this permutation on the transversal.
 
-Output the final state (a uniform superposition of a transversal) for the fully symmetric group SN.
-The program should also output the circuit that generates the quantum transversal.
-Allow for an extra input π∈S, which is a permutation in the symmetry group, and output the effect of this permutation on the transversal.
-Extra
+**Extra**
 
-Allow for any symmetric group on N elements.
-Find a way to order the transversal, and let the user also input their preferred transversal (e.g. whether they want a superposition of the elements of T or T′ in the example above).
+- Allow for any symmetric group on N elements.
+- Find a way to order the transversal, and let the user also input their preferred transversal (e.g. whether they want a superposition of the elements of T or T′ in the example above).
