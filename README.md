@@ -8,10 +8,11 @@ The pigeonhole principle is naturally intuitive in the classical world: if you p
 
 In this task, you will have to model the quantum pigeonhole principle, an example of so-called pre- and post-selection logical paradoxes which occur in quantum mechanics [2].
 
-Resources
-[1] Y. Aharonov, F. Colombo, S. Popescu, I. Sabadini, D. C. Struppa: “The quantum pigeonhole principle and the nature of quantum correlations”, 2014; arXiv:1407.3194.
+**Resources:**
 
-[2] Matthew F. Pusey, Matthew S. Leifer: “Logical pre- and post-selection paradoxes are proofs of contextuality”, 2015, EPTCS 195, 2015, pp. 295-306; arXiv:1506.07850. DOI: 10.4204/EPTCS.195.22.
+- *[1] Y. Aharonov, F. Colombo, S. Popescu, I. Sabadini, D. C. Struppa: “The quantum pigeonhole principle and the nature of quantum correlations”, 2014; arXiv:1407.3194.*
+
+- *[2] Matthew F. Pusey, Matthew S. Leifer: “Logical pre- and post-selection paradoxes are proofs of contextuality”, 2015, EPTCS 195, 2015, pp. 295-306; arXiv:1506.07850. DOI: 10.4204/EPTCS.195.22.*
 
 Subtasks
 Your program should simulate the experiment, which in principle can be done at different levels of abstraction.
@@ -48,8 +49,9 @@ In this task, you should write a program that receives as input the number of qu
 
  
 
-Resources
-[1] Nicolas Borie: “Generating tuples of integers modulo the action of a permutation group and applications”, 2012; arXiv:1211.6261.
+**Resources:**
+
+- *[1] Nicolas Borie: “Generating tuples of integers modulo the action of a permutation group and applications”, 2012; arXiv:1211.6261.*
 
  
 **Mandatory**
