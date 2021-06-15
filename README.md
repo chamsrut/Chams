@@ -1,7 +1,6 @@
 # Project Description
-This repository contains two projects developed by myself, David Castells Graells and Eleftherios Tselentis during a hackathon on quantum computing at ETH Zurich in 2019. We won the competition and provided the solutions to the following problems: 
-
-[link to the challange](http://squids.ch/2018/12/no-1-in-c-not-major/)
+This repository contains two projects developed by myself, David Castells Graells and Eleftherios Tselentis during a hackathon on quantum computing at ETH Zurich in 2019. We won the competition and provided the solutions to the following problems (the full description of the challange can be found at the following link 
+[link to the challange](http://squids.ch/2018/12/no-1-in-c-not-major/). Below I just report the tasks as they were given by the organizers): 
 
 ### 1. Quantum pigeon hole simulation
 The pigeonhole principle is naturally intuitive in the classical world: if you put three pigeons in two pigeonholes at least two of the pigeons end up in the same hole. However, it turns out that this is not necessarily true in the quantum world!  [1]
