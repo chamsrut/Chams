@@ -3,7 +3,31 @@ This repository contains two projects developed by myself, David Castells Graell
 
 [link to the challange](http://squids.ch/2018/12/no-1-in-c-not-major/)
 
-<br/>
+### 1. Quantum pigeon hole simulation
+The pigeonhole principle is naturally intuitive in the classical world: if you put three pigeons in two pigeonholes at least two of the pigeons end up in the same hole. However, it turns out that this is not necessarily true in the quantum world!  [1]
+
+In this task, you will have to model the quantum pigeonhole principle, an example of so-called pre- and post-selection logical paradoxes which occur in quantum mechanics [2].
+
+Resources
+[1] Y. Aharonov, F. Colombo, S. Popescu, I. Sabadini, D. C. Struppa: “The quantum pigeonhole principle and the nature of quantum correlations”, 2014; arXiv:1407.3194.
+
+[2] Matthew F. Pusey, Matthew S. Leifer: “Logical pre- and post-selection paradoxes are proofs of contextuality”, 2015, EPTCS 195, 2015, pp. 295-306; arXiv:1506.07850. DOI: 10.4204/EPTCS.195.22.
+
+Subtasks
+Your program should simulate the experiment, which in principle can be done at different levels of abstraction.
+
+**Mandatory**
+
+- Simulate the counterfactual paradox in [1].
+- Compute the weak values for the paradox.
+- Allow for different pre- and post-selections.
+
+**Extra**
+
+- Model the pointer as a quantum system undergoing a joint evolution with the system measured.
+- For a given arbitrary setting, try to find whether there are pre- and post-selections that lead to a pre- and post-selection.
+
+
 
 ### 2. Quantum transversals
 We start with the set G of all N-bit strings, for example for N=3,
