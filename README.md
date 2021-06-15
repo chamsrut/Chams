@@ -1,6 +1,6 @@
 # Project Description
 This repository contains two projects developed by myself, David Castells Graells and Eleftherios Tselentis during a hackathon on quantum computing at ETH Zurich in 2019. We won the competition and provided the solutions to the following problems (the full description of the challange can be found at the following link 
-[link to the challange](http://squids.ch/2018/12/no-1-in-c-not-major/). Below I just report the tasks as they were given by the organizers): 
+[challange](http://squids.ch/2018/12/no-1-in-c-not-major/). Below I just report the tasks as they were given by the organizers): 
 
 ### 1. Quantum pigeon hole simulation
 The pigeonhole principle is naturally intuitive in the classical world: if you put three pigeons in two pigeonholes at least two of the pigeons end up in the same hole. However, it turns out that this is not necessarily true in the quantum world!  [1]
@@ -9,9 +9,9 @@ In this task, you will have to model the quantum pigeonhole principle, an exampl
 
 **Resources:**
 
-- *[1] Y. Aharonov, F. Colombo, S. Popescu, I. Sabadini, D. C. Struppa: “The quantum pigeonhole principle and the nature of quantum correlations”, 2014; arXiv:1407.3194.*
+- *[1] Y. Aharonov, F. Colombo, S. Popescu, I. Sabadini, D. C. Struppa: “The quantum pigeonhole principle and the nature of quantum correlations”, 2014; [arXiv:1407.3194](https://arxiv.org/abs/1407.3194)*
 
-- *[2] Matthew F. Pusey, Matthew S. Leifer: “Logical pre- and post-selection paradoxes are proofs of contextuality”, 2015, EPTCS 195, 2015, pp. 295-306; arXiv:1506.07850. DOI: 10.4204/EPTCS.195.22.*
+- *[2] Matthew F. Pusey, Matthew S. Leifer: “Logical pre- and post-selection paradoxes are proofs of contextuality”, 2015, EPTCS 195, 2015, pp. 295-306; [arXiv:1506.07850](https://arxiv.org/abs/1506.07850). DOI: 10.4204/EPTCS.195.22.*
 
 Subtasks
 Your program should simulate the experiment, which in principle can be done at different levels of abstraction.
@@ -50,7 +50,7 @@ In this task, you should write a program that receives as input the number of qu
 
 **Resources:**
 
-- *[1] Nicolas Borie: “Generating tuples of integers modulo the action of a permutation group and applications”, 2012; arXiv:1211.6261.*
+- *[1] Nicolas Borie: “Generating tuples of integers modulo the action of a permutation group and applications”, 2012; [arXiv:1211.6261](https://arxiv.org/abs/1211.6261).*
 
  
 **Mandatory**
