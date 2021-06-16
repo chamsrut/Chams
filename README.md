@@ -73,3 +73,5 @@ In this task, you should write a program that receives as input the number of qu
 
 - Allow for any symmetric group on N elements.
 - Find a way to order the transversal, and let the user also input their preferred transversal (e.g. whether they want a superposition of the elements of T or T′ in the example above).
+
+# Project structure
