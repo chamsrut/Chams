@@ -52,7 +52,7 @@ Another possible transversal could be for example T′={000,100,110,111}=(213) T
 
 A uniform quantum superposition of the elements of the transversal T (“quantum transversal”  for short) would be the 3-qubit state
 
-\frac{1}{2}(|000⟩+|010⟩+|110⟩+|111⟩).
+$\frac{1}{2}$(|000⟩+|010⟩+|110⟩+|111⟩).
 
 In this task, you should write a program that receives as input the number of qubits N and a symmetry group acting on N elements, and outputs a quantum circuit that generates a quantum transversal. You are free to choose the format of the input. See [1] for a classical algorithm to find a transversal, which can be used as a preparatory step.
 
