@@ -1,6 +1,6 @@
 # Project Description
-This repository contains two projects developed by myself, David Castells Graells and Eleftherios Tselentis during a hackathon on quantum computing at ETH Zurich in 2019. We won the competition and provided the solutions to the following problems (the full description of the challange can be found at the following link 
-[challange](http://squids.ch/2018/12/no-1-in-c-not-major/). Below I just report the tasks as they were given by the organizers): 
+This repository contains two projects developed by myself, David Castells Graells and Eleftherios Tselentis during a hackathon on quantum computing at ETH Zurich in 2019. We won the competition and provided the solutions to the following problems (the full description of the challange can be found at the following 
+[link](http://squids.ch/2018/12/no-1-in-c-not-major/). Below I just report the tasks as they were given by the organizers): 
 
 ### 1. Quantum pigeon hole simulation
 The pigeonhole principle is naturally intuitive in the classical world: if you put three pigeons in two pigeonholes at least two of the pigeons end up in the same hole. However, it turns out that this is not necessarily true in the quantum world!  [1]
@@ -75,4 +75,15 @@ In this task, you should write a program that receives as input the number of qu
 - Find a way to order the transversal, and let the user also input their preferred transversal (e.g. whether they want a superposition of the elements of T or T′ in the example above).
 
 # Project structure
+The solution to the above described challange can be found in the following folders:
+
+```{sh}
+├───Pigeonhole
+└───QuantumTransversals
+```
+
+- Pigeonhole: 
+ - Report.pdf file provides a detailed theoretical analysis and generalizations of the original paper. We propose a novel experimental realization of the quantum pigeonhole paradox using a trapped ion quantum computer.
+ - ParadoxSimulation.ipynb jupyter notebook realizes a simple simulation of the paradox confirming the theoretical analysis.
+
 # Quick start
