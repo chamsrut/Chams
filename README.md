@@ -82,8 +82,22 @@ The solution to the above described challange can be found in the following fold
 └───QuantumTransversals
 ```
 
-- Pigeonhole: 
- - Report.pdf file provides a detailed theoretical analysis and generalizations of the original paper. We propose a novel experimental realization of the quantum pigeonhole paradox using a trapped ion quantum computer.
- - ParadoxSimulation.ipynb jupyter notebook realizes a simple simulation of the paradox confirming the theoretical analysis.
+- **Pigeonhole:** 
+    - *Report.pdf* file provides a detailed theoretical analysis and generalizations of the original paper. We propose a novel experimental realization of the quantum pigeonhole paradox using a trapped ion quantum computer.
+    - *ParadoxSimulation.ipynb* jupyter notebook realizes a simple simulation of the paradox confirming the theoretical analysis.
+- **QuantumTransversals:** 
+    - *Report.pdf* file provides theoretical details about the algorithm for generation of arbitrary quantum transversals.
+    - *QuantumTransversalSimulation.ipynb* jupyter notebook implements the algorithm we developed in the Report and realizes the quantum circuit using Qiskit IBM Python library.
 
 # Quick start
+
+### Prerequisites:
+
+In order to fully understand the solutions in Report.pdf files it is recommended to have a solid knowledge of undergraduate quantum physics, quantum information and working knowledge of linear algebra, calculus and group theory as well as complexity theory and algorithms.
+
+### Simulations:
+
+To test the simulations we recommend:
+1)  Installing Anaconda, a package and environment management software. You can find the installation instructions at the following [link](https://docs.anaconda.com/anaconda/install/).
+2)  Creating a new virtual environment and installing the `requirements.txt` with `conda install --file requirements.txt`.
+3)  Install jupyter or jupyter lab in your environment and open the simulation files.
