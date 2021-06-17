@@ -78,8 +78,17 @@ In this task, you should write a program that receives as input the number of qu
 The solution to the above described challange can be found in the following folders:
 
 ```{sh}
+│   README.md
+│   requirements.txt
+│
 ├───Pigeonhole
+│       ParadoxSimulation.ipynb
+│       Report.pdf
+│
 └───QuantumTransversals
+        QuantumTransversalSimulation.ipynb
+        Report.pdf
+
 ```
 
 - **Pigeonhole:** 
