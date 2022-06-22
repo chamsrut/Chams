@@ -50,7 +50,7 @@ nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 notebook @ file:///C:/ci/notebook_1621528813829/work
 ntlm-auth==1.5.0
-numpy==1.19.5
+numpy==1.22.0
 packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
 pandas==1.1.5
 pandocfilters @ file:///C:/ci/pandocfilters_1605120535071/work
