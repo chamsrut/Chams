@@ -8,7 +8,7 @@ cffi @ file:///C:/ci/cffi_1613247269562/work
 chardet==4.0.0
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 contextvars==2.4
-cryptography==3.4.7
+cryptography==39.0.1
 cycler==0.10.0
 Cython==0.29.8
 dataclasses==0.8
