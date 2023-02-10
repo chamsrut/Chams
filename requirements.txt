@@ -26,7 +26,7 @@ immutables==0.15
 importlib-metadata @ file:///C:/ci/importlib-metadata_1617877476772/work
 inflection==0.5.1
 ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython==7.16.3
+ipython==8.10.0
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3
 Jinja2 @ file:///tmp/build/80754af9/jinja2_1621238361758/work
